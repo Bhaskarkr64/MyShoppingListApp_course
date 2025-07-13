@@ -130,7 +130,7 @@ fun ShoppingListApp() {
                    }
                }
            },
-           title = {Text(text = "show Shopping item")},
+           title = {Text(text = "Add Shopping item")},
            text = {
                Column {
                        OutlinedTextField(
