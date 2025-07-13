@@ -114,7 +114,7 @@ fun ShoppingListApp() {
                     }
                 }
             },
-            title = { Text(text = "Add Shopping Item") },
+            title = { Text(text = " Add Shopping Item ") },
             text = {
                 Column {
                     OutlinedTextField(
